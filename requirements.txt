@@ -27,7 +27,7 @@ motor
 numpy<2.0.0
 openai==0.28.0
 opencv-python
-pillow==9.5.0
+pillow==12.0.0
 psutil
 pickledb
 pornhub-api==0.3.0
